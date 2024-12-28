@@ -31,16 +31,31 @@ This project is an excellent opportunity for contributors to gain experience in 
 ```
 E-commerce-App/
 │
-├── lib/                  # Main application code
-│   ├── models/           # Data models
-│   ├── screens/          # Screens and UI pages
-│   ├── widgets/          # Reusable widgets
-│   └── utils/            # Utility functions and constants
+├── lib/                        # Main application code
+│   ├── models/                 # Data models
+│   ├── screens/                # Screens and UI pages
+│   │   ├── home_screen.dart    # Home screen
+│   │   ├── product_detail.dart # Product detail screen
+│   │   ├── cart_screen.dart    # Cart screen
+│   │   └── checkout_screen.dart # Checkout screen
+│   ├── widgets/                # Reusable widgets
+│   │   ├── product_card.dart   # Product card widget
+│   │   └── custom_button.dart  # Custom button widget
+│   └── utils/                  # Utility functions and constants
+│       ├── constants.dart      # App constants
+│       └── helpers.dart       # Helper functions
 │
-├── assets/               # Images and static files
-├── test/                 # Unit and widget tests
-├── pubspec.yaml          # Dependencies and project configuration
-└── README.md             # Project documentation
+├── assets/                     # Images and static files
+│   ├── images/                 # Images (product images, icons, etc.)
+│   └── fonts/                  # Custom fonts
+│
+├── test/                       # Unit and widget tests
+│   ├── models/                 # Tests for models
+│   ├── screens/                # Tests for screens
+│   └── widgets/                # Tests for widgets
+│
+├── pubspec.yaml                # Dependencies and project configuration
+└── README.md                   # Project documentation
 ```
 
 ---
@@ -95,9 +110,6 @@ For detailed information about the project, check out the [Wiki](https://github.
 
 ---
 
-## 📄 License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+## Credits
 
----
-
-Feel free to adapt this README to your needs! Add your unique touch by including more screenshots, videos, or additional sections like FAQs or testimonials. 😊
+- Developed by [Abhishek Kumar](https://www.linkedin.com/in/ctrlabhi/)
