@@ -1,10 +1,10 @@
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ctrlabhi/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ctrlabhi/E-commerce)
+  ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/E-commerce?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce?style=social)
 <hr>
-  <h1 align="center">Abhishek Kumar's Portfolio</h1>
+  <h1 align="center">E-commerce App</h1>
 </div> 
 
 ## 🚀 Overview  
