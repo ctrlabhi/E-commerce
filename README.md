@@ -1,8 +1,11 @@
-# E-commerce App  
+<div align="center">
 
-![License](https://img.shields.io/github/license/ctrlabhi/E-commerce)  
-![Stars](https://img.shields.io/github/stars/ctrlabhi/E-commerce)  
-![Forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce)  
+![GitHub repo size](https://img.shields.io/github/repo-size/ctrlabhi/portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/portfolio?style=social)
+<hr>
+  <h1 align="center">Abhishek Kumar's Portfolio</h1>
+</div> 
 
 ## 🚀 Overview  
 **E-commerce App** is a Flutter-based mobile application designed to offer a seamless shopping experience. It features smooth browsing, secure authentication, a shopping cart, payment integration, and order tracking.  
