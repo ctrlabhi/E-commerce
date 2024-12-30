@@ -40,9 +40,8 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-### This project is now OFFICIALLY accepted for
+### This Project is Now OFFICIALLY Accepted For
 <table>
-
    <tr>
       <th>Event Logo</th>
       <th>Event Name</th>
