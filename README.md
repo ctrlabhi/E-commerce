@@ -1,17 +1,8 @@
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ctrlabhi/E-commerce)
-  ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/E-commerce?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce?style=social)
-<hr>
-   
-
-
-<div align="center">
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> E-commerce App <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> </h1>
 
-<i>Transforming Vision into Reality Through Creativity and Dedication – **Akshat Art**.
+<i>A Flutter-based **E-commerce App** offering smooth browsing, secure authentication, shopping cart, payment integration, and order tracking for a seamless shopping experience.
 </i>
 
 </div>
