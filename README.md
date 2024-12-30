@@ -4,7 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/E-commerce?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce?style=social)
 <hr>
-  <h1 align="center">E-commerce App</h1>
+  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> E-commerce App <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /></h1>
 </div> 
 
 ## 🚀 Overview  
