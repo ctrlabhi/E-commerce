@@ -99,10 +99,10 @@ For detailed information about the project, check out the [Wiki](https://github.
 
 ## 📸 Screenshots  
 ### Home Screen  
-![Home Screen](https://via.placeholder.com/800x400?text=Home+Screen)  
+![Home Screen](https://bambooagile.eu/wp-content/uploads/2023/09/original-c8273be23d00abdf39adbcc70ab8af5b.jpg)  
 
 ### Product Page  
-![Product Page](https://via.placeholder.com/800x400?text=Product+Page)  
+![Product Page](https://i.pinimg.com/736x/25/42/83/254283eeba56537b796b096963a307c0.jpg)  
 
 ---
 
