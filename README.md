@@ -64,7 +64,8 @@
 
 This project is an excellent opportunity for contributors to gain experience in Flutter, Dart, and Firebase while building a robust and user-friendly e-commerce platform.  
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🌟 Features  
 - **User Authentication**: Secure login and registration with Firebase.  
@@ -73,14 +74,16 @@ This project is an excellent opportunity for contributors to gain experience in 
 - **Payment Integration**: Seamless checkout experience using payment gateways.  
 - **Order Tracking**: Track your orders in real time.  
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🛠️ Tech Stack  
 - **Frontend**: Flutter, Dart  
 - **Backend**: Firebase (Authentication, Firestore)  
 - **APIs**: RESTful APIs  
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📂 Folder Structure  
 ```
@@ -113,7 +116,8 @@ E-commerce-App/
 └── README.md                   # Project documentation
 ```
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🧑‍💻 How to Contribute  
 
@@ -141,13 +145,15 @@ We welcome contributions from the community! Follow these steps to get started:
 
 5. Commit your changes and create a pull request. 🎉  
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📚 Documentation  
 
 For detailed information about the project, check out the [Wiki](https://github.com/ctrlabhi/E-commerce/wiki).  
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📸 Screenshots  
 ### Home Screen  
@@ -156,14 +162,16 @@ For detailed information about the project, check out the [Wiki](https://github.
 ### Product Page  
 ![Product Page](https://i.pinimg.com/736x/25/42/83/254283eeba56537b796b096963a307c0.jpg)  
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🔗 Useful Links  
 - **Repository**: [GitHub Repo](https://github.com/ctrlabhi/E-commerce)  
 - **Flutter Documentation**: [Flutter.dev](https://flutter.dev)  
 - **Firebase Documentation**: [Firebase Docs](https://firebase.google.com/docs)  
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## Credits
 
