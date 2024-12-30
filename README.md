@@ -4,8 +4,69 @@
   ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/E-commerce?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/E-commerce?style=social)
 <hr>
-  <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> E-commerce App <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /></h1>
-</div> 
+   
+
+
+<div align="center">
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> E-commerce App <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> </h1>
+
+<i>Transforming Vision into Reality Through Creativity and Dedication – **Akshat Art**.
+</i>
+
+</div>
+
+<div align = "center">
+<br>
+
+<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+            <td><b>🛠️ Languages</b></td>
+            <td><b>🌐 Contributors </b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/ctrlabhi/E-commerce?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/ctrlabhi/E-commerce?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/ctrlabhi/E-commerce?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/ctrlabhi/E-commerce?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/ctrlabhi/E-commerce?style=flat&color=critical&logo=github"/></td>
+           <td><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ctrlabhi/E-commerce?style=flat&color=critical&logo=github"></td>
+           <td><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ctrlabhi/E-commerce?color=2b9348"></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<br>
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### This project is now OFFICIALLY accepted for
+<table>
+
+   <tr>
+      <th>Event Logo</th>
+      <th>Event Name</th>
+      <th>Event Description</th>
+   </tr>
+   <tr>
+      <td><img src="https://media.licdn.com/dms/image/sync/v2/D5627AQEXLh_hox0WVA/articleshare-shrink_800/articleshare-shrink_800/0/1733835046597?e=2147483647&v=beta&t=B5u5MsnenvIMFcJ-KyOSokCalZwIwmO3MZTVSBZ5mz0" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
+      <td>Social Winter of Code 2025</td>
+      <td>Social Winter of Code is a month-long program introducing students to open-source development through curated projects, mentorship, and workshops on tech topics like AI, Blockchain, and Web Development.</td>
+   </tr>
+</table>
+
+<br />
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🚀 Overview  
 **E-commerce App** is a Flutter-based mobile application designed to offer a seamless shopping experience. It features smooth browsing, secure authentication, a shopping cart, payment integration, and order tracking.  
